@@ -1,0 +1,49 @@
+h4{
+    color: #e275bd;
+    padding-right: .5rem;
+    
+}
+h4:hover{
+    color: #373435;
+}
+.logo{
+    width: 150px;
+}
+.navbar-toggler{
+    background-color: #e275bd;
+}
+h1,h4{
+    text-align: center;
+}
+h1{
+    padding: 2% 0 4%;
+}
+.iconc{
+    width: 200px;
+    height: 200px;
+    padding-top: 7%;
+}
+.row{
+    padding-left: 7%;
+    padding-top: 4%;
+    padding-bottom: 7%;
+}
+#customers{
+    background-color: #e275bd;
+}
+.sukh{
+    border-radius: 100px;
+    width: 200px;
+    position: relative;
+    left: 30rem;
+    float: left;
+}
+
+.heading{
+    color: #e275bd;
+}
+p,h2{
+    padding-left: 45rem;
+}
+
+
