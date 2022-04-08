@@ -47,11 +47,11 @@ p,h2{
 }
 @media (max-width: 600px) {
     .iconc{
-        padding-left: 20rem;
+        padding-left: 5rem;
         
     }
     .logo{
-        width: 75px;
+        width: 90px;
 }
 }
 
