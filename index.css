@@ -45,5 +45,12 @@ h1{
 p,h2{
     padding-left: 45rem;
 }
-
+@media (max-width: 600px) {
+    .iconc{
+        padding-left: 10%;
+        
+    }
+    .logo{
+        width: 100px;
+}
 
